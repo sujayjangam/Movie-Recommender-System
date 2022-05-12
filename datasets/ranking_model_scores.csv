@@ -1,2 +1,3 @@
-model_name,rating_rmse
-basic_ranking_model,0.9102
+model_name,top-100 accuracy
+basic_retrival_model,0.001049
+3 layer model,0.8862
