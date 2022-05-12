@@ -29,6 +29,7 @@ Metrics used are Root Mean Squared Error, `rmse` and the maximum time taken for 
 * [`ratings.csv`](./datasets/ratings.csv): Dataset containing UserIds, MovieIds, Ratings, and Timestamp
 * [`links.csv`](./datasets/links.csv): Dataset containing MovieIds, imdbIds and imdbIds
 * [`tags.csv`](./datasets/tags.csv): Dataset containing UserIds, MovieIds, and user generated Tags
+* [`movies+avg_rating.csv`](./datasets/movies+avg_rating.csv): Dataset containing Movies data as well as mean rating for each movie and the number of times each movie was rated.
 * [`merged_users+movies.csv`](./datasets/merged_users+movies.csv): Merged dataframe between ratings and movies
 * [`merged_users+movies+tags.csv`](./datasets/merged_users+movies+tags.csv): Merged dataframe between ratings, movies, and tags
 * [`model_scores_overall.csv`](./datasets/model_scores_overall.csv): Scores for the SurPRISE models
